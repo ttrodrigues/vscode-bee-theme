@@ -1,0 +1,28 @@
+{
+  "name": "vscode-bee-theme",
+  "displayName": "Bee Theme",
+  "publisher": "ttrodrigues",
+  "license": "Open source",
+  "description": "VS Code Theme with two main colors black and yellow as a bee has",
+  "version": "0.0.1",
+  "icon": "/media/icon.png",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bee Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bee Theme-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ttrodrigues/vscode-bee-theme.git"
+  }
+}
