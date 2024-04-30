@@ -1,16 +1,25 @@
-# vscode-bee-theme README
+![](/media/icon.png)
 
-## Working with Markdown
+# Bee Theme 🐝
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![](/media/screenshot_002.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![](/media/screenshot_007.png)
 
-## For more information
+![](/media/screenshot_006.png)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![](/media/screenshot_003.png)
 
-**Enjoy!**
+![](/media/screenshot_004.png)
+
+![](/media/screenshot_005.png)
+
+
+### Configurations of screenshots 
+- Font: JetBrains Mono
+- Icons pack: [Sharp Icons](https://marketplace.visualstudio.com/items?itemName=CiberTurtle.sharp-icons)
+
+
+### Inspiration
+
+Inspirited on **Vivid Black Theme** of [Bearded Theme](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedtheme)
