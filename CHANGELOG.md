@@ -1,9 +1,10 @@
 # Change Log
 
-All notable changes to the "vscode-bee-theme" extension will be documented in this file.
+## [0.0.3]
+- Change editor gutter colors 
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.0.2]
+- Fix minor layout issues on dropdown element
 
-## [Unreleased]
-
+## [0.0.1]
 - Initial release
